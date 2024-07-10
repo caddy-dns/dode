@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
-	github.com/libdns/dode v0.1.0
+	github.com/libdns/dode v0.1.1
 )
 
 require (

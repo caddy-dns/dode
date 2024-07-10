@@ -23,8 +23,8 @@ github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/klauspost/cpuid/v2 v2.0.12/go.mod h1:g2LTdtYhdyuGPqyWyv7qRAmj1WBqxuObKfj5c0PQa7c=
 github.com/klauspost/cpuid/v2 v2.2.8 h1:+StwCXwm9PdpiEkPyzBXIy+M9KUb4ODm0Zarf1kS5BM=
 github.com/klauspost/cpuid/v2 v2.2.8/go.mod h1:Lcz8mBdAVJIBVzewtcLocK12l3Y+JytZYpaMropDUws=
-github.com/libdns/dode v0.1.0 h1:AOeOdzuGjTpmgx1FfXfSWefbtrcKIlpztXfaxdR9M8c=
-github.com/libdns/dode v0.1.0/go.mod h1:jm1NWOHIf9+fsLrTC7s5CBbapBZu2GUr3m31JFdmE90=
+github.com/libdns/dode v0.1.1 h1:p47rPTfDIVlym78k4G9cr+J7PBoNckDXy9ECL/RMgqk=
+github.com/libdns/dode v0.1.1/go.mod h1:jm1NWOHIf9+fsLrTC7s5CBbapBZu2GUr3m31JFdmE90=
 github.com/libdns/libdns v0.2.2 h1:O6ws7bAfRPaBsgAYt8MDe2HcNBGC29hkZ9MX2eUSX3s=
 github.com/libdns/libdns v0.2.2/go.mod h1:4Bj9+5CQiNMVGf87wjX4CY3HQJypUHRuLvlsfsZqLWQ=
 github.com/mholt/acmez/v2 v2.0.1 h1:3/3N0u1pLjMK4sNEAFSI+bcvzbPhRpY383sy1kLHJ6k=
